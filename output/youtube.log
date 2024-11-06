@@ -1,0 +1,169 @@
+nohup: ignoring input
+节点数为 1134890
+边数为 2987624
+标签 7 的边数量为 1
+标签 6 的边数量为 3
+标签 4 的边数量为 476
+标签 2 的边数量为 68356
+标签 0 的边数量为 2113536
+标签 5 的边数量为 47
+标签 3 的边数量为 5929
+标签 1 的边数量为 799276
+单个标签最多边数为 2113536
+标签数为 8
+单个标签平均边数为 373453
+去除多边的边数为 2987624
+最大度数为 28754
+图加载完成，开始构造标签集合以及查询标签
+选定标签集合和查询标签集合
+查看当前数据集是否为连通图
+Graph is connected.
+make the graph connected.
+the kmax is 51
+successedfully build the k-core hierarchy.
+the k-core hierarchy built in 278202 ms
+Loading index from file...
+the LCS index has been built.
+the LCS Index built in 17710 ms
+the community1 size is 27645
+the community2 size is 90913
+the community1 size is 27645
+the community2 size is 90913
+k为 5 时,CL-Tree的平均查询结果为26996 查询时间为 99039
+k为 5 时,索引结构的平均查询结果为26996 查询时间为 6573
+
+the community1 size is 27645
+the community2 size is 90913
+the community1 size is 27645
+the community2 size is 90913
+k为 5 时,CL-Tree的平均查询结果为26996 查询时间为 94990
+k为 5 时,索引结构的平均查询结果为26996 查询时间为 6500
+
+the community1 size is 27645
+the community2 size is 90913
+the community1 size is 27645
+the community2 size is 90913
+k为 5 时,CL-Tree的平均查询结果为26996 查询时间为 94643
+k为 5 时,索引结构的平均查询结果为26996 查询时间为 6244
+
+the community1 size is 27646
+the community2 size is 90913
+the community1 size is 27646
+the community2 size is 90913
+k为 5 时,CL-Tree的平均查询结果为26997 查询时间为 96268
+k为 5 时,索引结构的平均查询结果为26997 查询时间为 6555
+
+the community1 size is 27645
+the community2 size is 90913
+the community1 size is 27645
+the community2 size is 90913
+k为 5 时,CL-Tree的平均查询结果为26996 查询时间为 95922
+k为 5 时,索引结构的平均查询结果为26996 查询时间为 6564
+
+the community1 size is 27645
+the community2 size is 90913
+the community1 size is 27645
+the community2 size is 90913
+k为 5 时,CL-Tree的平均查询结果为26996 查询时间为 97482
+k为 5 时,索引结构的平均查询结果为26996 查询时间为 6410
+
+the community1 size is 27645
+the community2 size is 90913
+the community1 size is 27645
+the community2 size is 90913
+k为 5 时,CL-Tree的平均查询结果为26996 查询时间为 96729
+k为 5 时,索引结构的平均查询结果为26996 查询时间为 6442
+
+the community1 size is 27645
+the community2 size is 90913
+the community1 size is 27645
+the community2 size is 90913
+k为 5 时,CL-Tree的平均查询结果为26996 查询时间为 97075
+k为 5 时,索引结构的平均查询结果为26996 查询时间为 6942
+
+the community1 size is 27645
+the community2 size is 90913
+the community1 size is 27645
+the community2 size is 90913
+k为 5 时,CL-Tree的平均查询结果为26996 查询时间为 96369
+k为 5 时,索引结构的平均查询结果为26996 查询时间为 6333
+
+the community1 size is 27645
+the community2 size is 90913
+the community1 size is 27645
+the community2 size is 90913
+k为 5 时,CL-Tree的平均查询结果为26996 查询时间为 97777
+k为 5 时,索引结构的平均查询结果为26996 查询时间为 6698
+
+the community1 size is 27645
+the community2 size is 90913
+the community1 size is 27645
+the community2 size is 90913
+k为 5 时,CL-Tree的平均查询结果为26996 查询时间为 108463
+k为 5 时,索引结构的平均查询结果为26996 查询时间为 8988
+
+the community1 size is 27645
+the community2 size is 90913
+the community1 size is 27645
+the community2 size is 90913
+k为 5 时,CL-Tree的平均查询结果为26996 查询时间为 99121
+k为 5 时,索引结构的平均查询结果为26996 查询时间为 6989
+
+the community1 size is 27645
+the community2 size is 90913
+the community1 size is 27645
+the community2 size is 90913
+k为 5 时,CL-Tree的平均查询结果为26996 查询时间为 104037
+k为 5 时,索引结构的平均查询结果为26996 查询时间为 6988
+
+the community1 size is 27645
+the community2 size is 90913
+the community1 size is 27645
+the community2 size is 90913
+k为 5 时,CL-Tree的平均查询结果为26996 查询时间为 102651
+k为 5 时,索引结构的平均查询结果为26996 查询时间为 11912
+
+the community1 size is 27645
+the community2 size is 90913
+the community1 size is 27645
+the community2 size is 90913
+k为 5 时,CL-Tree的平均查询结果为26996 查询时间为 122016
+k为 5 时,索引结构的平均查询结果为26996 查询时间为 9140
+
+the community1 size is 27645
+the community2 size is 90913
+the community1 size is 27645
+the community2 size is 90913
+k为 5 时,CL-Tree的平均查询结果为26996 查询时间为 115445
+k为 5 时,索引结构的平均查询结果为26996 查询时间为 10540
+
+the community1 size is 27645
+the community2 size is 90913
+the community1 size is 27645
+the community2 size is 90913
+k为 5 时,CL-Tree的平均查询结果为26996 查询时间为 110258
+k为 5 时,索引结构的平均查询结果为26996 查询时间为 8992
+
+the community1 size is 27645
+the community2 size is 90913
+the community1 size is 27645
+the community2 size is 90913
+k为 5 时,CL-Tree的平均查询结果为26996 查询时间为 111985
+k为 5 时,索引结构的平均查询结果为26996 查询时间为 9777
+
+the community1 size is 27645
+the community2 size is 90913
+the community1 size is 27645
+the community2 size is 90913
+k为 5 时,CL-Tree的平均查询结果为26996 查询时间为 112853
+k为 5 时,索引结构的平均查询结果为26996 查询时间为 9295
+
+the community1 size is 27645
+the community2 size is 90913
+the community1 size is 27645
+the community2 size is 90913
+k为 5 时,CL-Tree的平均查询结果为26996 查询时间为 98799
+k为 5 时,索引结构的平均查询结果为26996 查询时间为 7878
+
+加速比为 13.1736
+

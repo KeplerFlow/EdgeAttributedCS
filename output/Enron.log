@@ -1,0 +1,729 @@
+nohup: ignoring input
+节点数为 36692
+边数为 367662
+标签 2 的边数量为 45612
+标签 6 的边数量为 46364
+标签 7 的边数量为 46185
+标签 0 的边数量为 45662
+标签 4 的边数量为 45974
+标签 1 的边数量为 45956
+标签 3 的边数量为 45969
+标签 5 的边数量为 45940
+单个标签最多边数为 46364
+标签数为 8
+单个标签平均边数为 45957
+去除多边的边数为 183831
+最大度数为 1383
+图加载完成，开始构造标签集合以及查询标签
+选定标签集合和查询标签集合
+查看当前数据集是否为连通图
+Graph is not connected.
+make the graph connected.
+the kmax is 43
+successedfully build the k-core hierarchy.
+the k-core hierarchy built in 19291 ms
+Loading index from file...
+the LCS index has been built.
+the LCS Index built in 19287 ms
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6705
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 575
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6563
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 559
+
+the community1 size is 3282
+the community2 size is 3281
+the community1 size is 3282
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2601 查询时间为 6601
+k为 4 时,索引结构的平均查询结果为2601 查询时间为 564
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6604
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 570
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6609
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 564
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6663
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 556
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6700
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 579
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6735
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 572
+
+the community1 size is 3281
+the community2 size is 3282
+the community1 size is 3281
+the community2 size is 3282
+k为 4 时,CL-Tree的平均查询结果为2601 查询时间为 6732
+k为 4 时,索引结构的平均查询结果为2601 查询时间为 603
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6592
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 590
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6617
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 755
+
+the community1 size is 3282
+the community2 size is 3281
+the community1 size is 3282
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2601 查询时间为 6746
+k为 4 时,索引结构的平均查询结果为2601 查询时间为 576
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6740
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 563
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6619
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 564
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6609
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 574
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6634
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 575
+
+the community1 size is 3282
+the community2 size is 3281
+the community1 size is 3282
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2601 查询时间为 6653
+k为 4 时,索引结构的平均查询结果为2601 查询时间为 553
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6528
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 555
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6549
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 572
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6521
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 589
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6705
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 578
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6539
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 559
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6689
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 564
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6723
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 557
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6530
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 569
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6678
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 561
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6545
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 570
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6597
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 568
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6703
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 579
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6797
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 558
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6675
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 566
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6592
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 553
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6536
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 562
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6675
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 574
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6480
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 594
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6527
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 553
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6459
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 563
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6619
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 568
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6779
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 560
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6549
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 620
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6629
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 571
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6672
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 564
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6580
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 570
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6534
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 556
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6655
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 552
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6490
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 614
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6544
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 545
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6575
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 566
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6631
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 567
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6684
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 562
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6579
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 570
+
+the community1 size is 3281
+the community2 size is 3282
+the community1 size is 3281
+the community2 size is 3282
+k为 4 时,CL-Tree的平均查询结果为2601 查询时间为 6537
+k为 4 时,索引结构的平均查询结果为2601 查询时间为 586
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6723
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 570
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6715
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 563
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6620
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 561
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6525
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 554
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6496
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 558
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 7461
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 999
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 8241
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 696
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 7535
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 684
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 7995
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 712
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 7834
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 682
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 7774
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 752
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 7632
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 748
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6635
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 612
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6542
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 598
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6564
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 718
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6966
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 584
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6928
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 564
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6284
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 559
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6247
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 547
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6485
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 555
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6698
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 644
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6703
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 562
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6725
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 572
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6390
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 538
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6670
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 565
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6577
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 556
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6648
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 599
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6551
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 571
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6531
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 555
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6447
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 553
+
+the community1 size is 3281
+the community2 size is 3282
+the community1 size is 3281
+the community2 size is 3282
+k为 4 时,CL-Tree的平均查询结果为2601 查询时间为 6666
+k为 4 时,索引结构的平均查询结果为2601 查询时间为 552
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6703
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 573
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6635
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 572
+
+the community1 size is 3282
+the community2 size is 3281
+the community1 size is 3282
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2601 查询时间为 6638
+k为 4 时,索引结构的平均查询结果为2601 查询时间为 557
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6591
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 573
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6504
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 562
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6639
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 552
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6614
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 556
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6269
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 565
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6439
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 568
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6609
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 569
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6646
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 579
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6521
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 546
+
+the community1 size is 3281
+the community2 size is 3282
+the community1 size is 3281
+the community2 size is 3282
+k为 4 时,CL-Tree的平均查询结果为2601 查询时间为 6613
+k为 4 时,索引结构的平均查询结果为2601 查询时间为 567
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6544
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 557
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6631
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 577
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6833
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 562
+
+the community1 size is 3281
+the community2 size is 3281
+the community1 size is 3281
+the community2 size is 3281
+k为 4 时,CL-Tree的平均查询结果为2600 查询时间为 6627
+k为 4 时,索引结构的平均查询结果为2600 查询时间为 550
+
+加速比为 11.4423
+

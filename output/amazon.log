@@ -1,0 +1,61 @@
+nohup: ignoring input
+节点数为 54045
+边数为 17982352
+标签 4 的边数量为 1
+标签 2 的边数量为 684467
+标签 1 的边数量为 1104197
+标签 3 的边数量为 1112379
+标签 0 的边数量为 15081308
+单个标签最多边数为 15081308
+标签数为 5
+单个标签平均边数为 3596470
+去除多边的边数为 17596295
+最大度数为 38015
+图加载完成，开始构造标签集合以及查询标签
+选定标签集合和查询标签集合
+查看当前数据集是否为连通图
+Graph is not connected.
+make the graph connected.
+the kmax is 4000
+successedfully build the k-core hierarchy.
+the k-core hierarchy built in 16843216 ms
+Loading index from file...
+the LCS index has been built.
+the LCS Index built in 144748 ms
+the community1 size is 1
+the community2 size is 11845
+the community1 size is 1
+the community2 size is 11845
+k为 400 时,CL-Tree的平均查询结果为1 查询时间为 552961
+k为 400 时,索引结构的平均查询结果为1 查询时间为 36361
+
+the community1 size is 1
+the community2 size is 11845
+the community1 size is 1
+the community2 size is 11845
+k为 400 时,CL-Tree的平均查询结果为1 查询时间为 536179
+k为 400 时,索引结构的平均查询结果为1 查询时间为 34309
+
+the community1 size is 1
+the community2 size is 11845
+the community1 size is 1
+the community2 size is 11845
+k为 400 时,CL-Tree的平均查询结果为1 查询时间为 524133
+k为 400 时,索引结构的平均查询结果为1 查询时间为 33831
+
+the community1 size is 1
+the community2 size is 11845
+the community1 size is 1
+the community2 size is 11845
+k为 400 时,CL-Tree的平均查询结果为1 查询时间为 526502
+k为 400 时,索引结构的平均查询结果为1 查询时间为 33922
+
+the community1 size is 1
+the community2 size is 11845
+the community1 size is 1
+the community2 size is 11845
+k为 400 时,CL-Tree的平均查询结果为1 查询时间为 529287
+k为 400 时,索引结构的平均查询结果为1 查询时间为 34227
+
+加速比为 15.4594
+

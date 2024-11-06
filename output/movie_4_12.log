@@ -1,0 +1,53 @@
+nohup: ignoring input
+节点数为 160076
+边数为 1055005
+标签 14 的边数量为 46434
+标签 0 的边数量为 83377
+标签 10 的边数量为 46909
+标签 15 的边数量为 95638
+标签 2 的边数量为 28521
+标签 4 的边数量为 229053
+标签 13 的边数量为 87915
+标签 7 的边数量为 319026
+标签 5 的边数量为 55581
+标签 1 的边数量为 62551
+单个标签最多边数为 319026
+标签数为 10
+单个标签平均边数为 105500
+去除多边的边数为 1053992
+最大度数为 83
+图加载完成，开始构造标签集合以及查询标签
+选定标签集合和查询标签集合
+查看当前数据集是否为连通图
+Graph is not connected.
+make the graph connected.
+the K max is 17
+successedfully build the k-core .
+Index file not found. Building index...
+using the super optimization construction method.
+begin to build the level; 
+next level : 2
+next level : 3
+next level : 4
+next level : 5
+next level : 6
+next level : 7
+next level : 8
+next level : 9
+Saving index to file...
+the LCS index has been built.
+the LCS Index built in 2574756 ms
+Memory usage of LcsIndex: 4579.2 MB
+进行标签调整实验
+标签大小为 2 时,基于索引的查询时间为733.444
+标签大小为 2 时,在线搜索的查询时间为15317.9
+
+标签大小为 4 时,基于索引的查询时间为801.486
+标签大小为 4 时,在线搜索的查询时间为13312.3
+
+标签大小为 6 时,基于索引的查询时间为704.99
+标签大小为 6 时,在线搜索的查询时间为11484.6
+
+标签大小为 8 时,基于索引的查询时间为515.356
+标签大小为 8 时,在线搜索的查询时间为9464.04
+

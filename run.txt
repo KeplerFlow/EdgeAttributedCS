@@ -1,0 +1,56 @@
+nohup ./a.out ./Dataset/labeled_email-Eu-core.txt true true > ./output/emailEu.log 2>&1 &
+
+nohup ./a.out ./Dataset/labeled_facebook_combined.txt true true > ./output/facebook.log 2>&1 &
+
+nohup ./a.out ./Dataset/Email-Enron-labels.txt true true > ./output/Enron.log 2>&1 &
+
+nohup ./a.out ./Dataset/labeled_com-dblp.ungraph.txt true true > ./output/dblp.log 2>&1 &
+
+nohup ./a.out ./Dataset/labeled_com-youtube.ungraph.txt true true > ./output/youtube.log 2>&1 &
+
+nohup ./a.out ./Dataset/97_sem_network1.txt true true > ./output/sem_network.log 2>&1 &
+
+nohup ./a.out ./Dataset/97_sem_network1_exp.txt false false > ./output/sem_network_exp_normal.log 2>&1 &
+
+nohup ./a.out ./Dataset/mini_sem_network_exp.txt true false > ./output/sem_network_mini.log 2>&1 &
+
+nohup ./a.out ./Dataset/sem_network3_top8.txt true true > ./output/sem_network.log 2>&1 &
+
+nohup ./a.out ./Dataset/labeled_wiki-talk-temporal.txt true true > ./output/wikitalk.log 2>&1 &
+
+nohup ./a.out ./Dataset/movies_1m_network2_top8.txt true true > ./output/movie.log 2>&1 &
+
+nohup ./a.out ./Dataset/labeled_twitter_social_network.txt true true > ./output/twitter.log 2>&1 &
+
+nohup ./a.out ./Dataset/95_movies_network_ratings_ge_4_8.txt true true > ./output/movie_full.log 2>&1 &
+
+nohup ./a.out ./Dataset/amazon-network.txt true true > ./output/amazon.log 2>&1 &
+
+nohup ./a.out ./Dataset/labeled_com-orkut.ungraph.txt true true > ./output/orkut.log 2>&1 &
+
+nohup ./a.out ./Dataset/movies_network_ratings_ge4_5_exp.txt true true > ./output/movie_4_5.log 2>&1 &
+
+nohup ./a.out ./Dataset/95_movies_network_ratings_ge_4_12_exp.txt true true > ./output/movie_4_12_normal.log 2>&1 &
+
+nohup ./a.out /home/asc23/lcy/graph/data/semanticscholar/mini_sem_network2.txt true true > ./casestudy.log 2>&1 &
+
+12956
+
+scp -r ./Final/ root@115.157.197.212:/data2/lcy
+
+export LD_LIBRARY_PATH=""
+
+sudo bash build.sh
+
+cd build
+
+./bin/observer -f ../etc/observer.ini -s miniob.sock
+
+./bin/obclient -s miniob.sock
+
+sudo rm -rf .git 
+git init 
+git add . 
+git commit -m 'init' 
+git remote add origin https://github.com/KeplerFlow/miniob-2024.git 
+git branch -M main

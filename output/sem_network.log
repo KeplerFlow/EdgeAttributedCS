@@ -1,0 +1,28 @@
+nohup: ignoring input
+节点数为 52812
+边数为 333612
+标签 4 的边数量为 21141
+标签 6 的边数量为 29020
+标签 0 的边数量为 47816
+标签 7 的边数量为 26803
+标签 5 的边数量为 19899
+标签 3 的边数量为 14892
+标签 1 的边数量为 144756
+标签 2 的边数量为 29285
+单个标签最多边数为 144756
+标签数为 8
+单个标签平均边数为 41701
+去除多边的边数为 319097
+最大度数为 450
+the solution is 4551
+16630 42916 16729 43090 46026 2091 16728 12956 18338 46027 13077 12955 43057 13076 13232 42754 12957 16727 13078 2514 43056 
+query with label constraints' answer as above ; and the sum is 21
+the solution is 3887
+16630 16728 2514 16727 12957 16729 2091 13232 12955 12956 
+query with label constraints' answer as above ; and the sum is 10
+the solution is 3250
+16630 16728 2514 16727 12957 16729 2091 13232 12956 
+query with label constraints' answer as above ; and the sum is 9
+the solution is 0
+12956 
+query with label constraints' answer as above ; and the sum is 1
