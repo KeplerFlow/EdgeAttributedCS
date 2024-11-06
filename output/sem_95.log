@@ -1,0 +1,30 @@
+nohup: ignoring input
+节点数为 2135390
+边数为 10080227
+标签 9 的边数量为 141885
+标签 2 的边数量为 292631
+标签 6 的边数量为 706950
+标签 4 的边数量为 423041
+标签 11 的边数量为 1942418
+标签 7 的边数量为 1100071
+标签 8 的边数量为 466113
+标签 10 的边数量为 217823
+标签 0 的边数量为 1465060
+标签 3 的边数量为 186462
+标签 1 的边数量为 766759
+标签 5 的边数量为 2371014
+单个标签最多边数为 2371014
+标签数为 12
+单个标签平均边数为 840018
+去除多边的边数为 6613202
+最大度数为 81
+图加载完成，开始构造标签集合以及查询标签
+选定标签集合和查询标签集合
+查看当前数据集是否为连通图
+Graph is not connected.
+make the graph connected.
+the K max is 54
+successedfully build the k-core .
+Index file not found. Building index...
+using the super optimization construction method.
+begin to build the level; 
