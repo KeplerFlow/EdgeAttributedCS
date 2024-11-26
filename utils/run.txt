@@ -1,0 +1,19 @@
+nohup ./a.out ./Dataset/labeled_com-dblp.ungraph.txt true true > ./output/dblp_query_2.log 2>&1 &
+
+nohup ./a.out ./Dataset/labeled_com-youtube.ungraph.txt true true > ./output/youtube_query.log 2>&1 &
+
+nohup ./a.out ./Dataset/labeled_wiki-talk-temporal.txt true true > ./output/wikitalk_query.log 2>&1 &
+
+nohup ./a.out ./Dataset/labeled_twitter_social_network.txt true true > ./output/twitter_query.log 2>&1 &
+
+nohup ./a.out ./Dataset/labeled_com-orkut.ungraph.txt true true > ./output/orkut_query_2.log 2>&1 &
+
+nohup ./a.out ./Dataset/movie_10w.txt true true > ./output/movie_10w_query_2.log 2>&1 &
+
+nohup ./a.out ./Dataset/movie_200w.txt true true > ./output/movie_200w_3.log 2>&1 &
+
+nohup ./a.out ./Dataset/sem_network_10w.txt true true > ./output/sem_10w_query_2.log 2>&1 &
+
+nohup ./a.out ./Dataset/sem_network_200w.txt true true > ./output/sem_200w_2.log 2>&1 &
+
+nohup ./a.out ./Dataset/sem_network_1000w.txt true true > ./output/sem_1000w_query_2.log 2>&1 &
