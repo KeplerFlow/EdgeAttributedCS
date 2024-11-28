@@ -1,17 +1,17 @@
 ## Introduction
-"Efficient Indexing for Label-constrained Cohesive Subgraph Queries Over Large Graphs" paper implementation code.
+The problem of LCQ
 - Code author: Liu Chuanyu from Hunan University
 
 ## File Structure Overview
-- **Algorithm** folder
+- **Algorithm** Folder
   - **CoreGroup**: Core decomposition algorithm
   - **Online**: Online search algorithm
-- **BuildIndex** folder
-  - **hierarchy**: k-core hierarchy construction algorithm and search algorithm
-  - **LCS**: Index algorithm, includes both standard and optimized index construction
-- **core-maint** folder
-  - **glist** folder: Order-based core maintenance algorithm
-- **Dataset** folder
+- **BuildIndex** Folder
+  - **hierarchy**: Core list construction and search algorithm
+  - **LCS**: Index algorithm, includes both basic and optimized index construction
+- **core-maint** Folder
+  - **glist** Folder: Order-based core maintenance algorithm
+- **Dataset** Folder
   - Stores datasets required for experiments, including real datasets from Sem_network series and Movie series as well as other synthetic datasets
 
 - **Graph.h/cpp**: Graph data structure definition
