@@ -12,7 +12,7 @@ The problem for LCQ
 - **core-maint** Folder
   - **glist** Folder: Order-based core maintenance algorithm
 - **Dataset** Folder
-  - Stores datasets required for experiments, including real datasets from Sem_network series and Movie series as well as other synthetic datasets
+  - Stores datasets required for experiments
 
 - **Graph.h/cpp**: Graph data structure definition
 - **executor.cpp**: Label adjustment experiment and k-value adjustment experiment
