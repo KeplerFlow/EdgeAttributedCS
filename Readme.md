@@ -1,5 +1,5 @@
 ## Introduction
-The problem of LCQ
+The problem for LCQ
 - Code author: Liu Chuanyu from Hunan University
 
 ## File Structure Overview
